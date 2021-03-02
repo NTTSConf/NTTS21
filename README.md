@@ -25,15 +25,25 @@ Source code accompanying NTTS 2021 publications
       <td align="left" valign="middle"><code>R</code> package for computing  device-duplicity  probabilities</td> 
 </tr> 
 <tr> <td align="left" valign="middle"><a href="https://github.com/MobilePhoneESSnetBigData/aggregation"><code>aggregation</code></a> </td>
-      <td align="left" valign="middle"><code>R</code> package for aggregating de-vice counts into network-detected population counts</td> 
+      <td align="left" valign="middle"><code>R</code> package for aggregating device counts into network-detected population counts</td> 
 </tr> 
 <tr> <td align="left" valign="middle"><a href="https://github.com/MobilePhoneESSnetBigData/inference"><code>inference</code></a> </td>
-      <td align="left" valign="middle"><code>R</code> package for computing  the  target  population  counts  conditioned  on  network-detected  popu-lation  counts  and  auxiliary  information</td> 
+      <td align="left" valign="middle"><code>R</code> package for computing  the  target  population  counts  conditioned  on  network-detected  population  counts  and  auxiliary  information</td> 
 </tr> 
 <!-- statistics-coded -->
 <tr> <td align="left" valign="middle"><a href="https://github.com/eurostat/statistics-coded"><code>statistics-coded</code></a> </td>
       <td align="left" valign="middle">Catalogue of resources to reproduce the results of Eurostat Statistics Explained articles </td> 
-      <td align="left" valign="middle"><strong><a href="https://github.com/eurostat/statistics-coded/blob/master/docs/pubs/NTTS21.statistics_coded.abstract.pdf">Statistics Coded – Storytelling through literate programming and runnable computing</a></strong> </td>     
+      <td align="left" valign="middle"><strong><a href="https://github.com/eurostat/statistics-coded/blob/master/docs/pubs/NTTS21.statistics_coded.abstract.pdf"><code>statistics-coded</code> – Storytelling through literate programming and runnable computing</a></strong> </td>     
+</tr> 
+<!-- persephone -->
+<tr> <td align="left" valign="middle"><a href="https://github.com/statistikat/persephone"><code>persephone</code></a> </td>
+      <td align="left" valign="middle">Object-oriented wrappers for <code>RJDemetra</code> </td> 
+      <td align="left" valign="middle"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_12.pdf"><code>persephone</code>, production-ready seasonal adjustment in <code>R</code> with <code>RJDemetra</code></a></strong> </td>     
+</tr>
+<!-- lissyrtools -->
+<tr> <td align="left" valign="middle"><a href="https://github.com/JosepER/lissyrtools"><code>lissyrtools</code></a> </td>
+      <td align="left" valign="middle"><code>R</code> package with functions for LISSY</td> 
+      <td align="left" valign="middle"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_25.docx">Continuous integration and sharing code in Official Statistics: an example with the <code>lissyrtools</code> package</a></strong> </td>     
 </tr> 
 <!-- INSERT YOUR OWN REPO -->
 <!-- <tr> <td align="left" valign="middle"><a href="LINK_TO_THE_REPO"><code>NAME_OF_THE_REPO</code></a> </td>
