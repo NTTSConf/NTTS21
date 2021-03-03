@@ -18,7 +18,7 @@ Source code accompanying NTTS 2021 publications
      <td align="left" valign="middle">
      <strong><a href=""></a></strong> </td>     
 </tr> 
-<!-- destim / deduplication /  -->
+<!-- destim / deduplication / aggregation / inference -->
 <tr> <td align="left" valign="middle"><a href="https://github.com/MobilePhoneESSnetBigData/destim"><code>destim</code></a> </td>
       <td align="left" valign="middle"><code>R</code> package for mobile devices position estimation</td> 
       <td align="left" valign="middle" rowspan="4"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_53.pdf">From raw telco data to final statistics: a modular process with synthetic networkevent data</a></strong> </td>     
@@ -31,6 +31,20 @@ Source code accompanying NTTS 2021 publications
 </tr> 
 <tr> <td align="left" valign="middle"><a href="https://github.com/MobilePhoneESSnetBigData/inference"><code>inference</code></a> </td>
       <td align="left" valign="middle"><code>R</code> package for computing  the  target  population  counts  conditioned  on  network-detected  population  counts  and  auxiliary  information</td> 
+</tr> 
+<!-- ARC / is2 / PxWeb / Trevas -->
+<tr> <td align="left" valign="middle"><a href="https://github.com/InseeFr/ARC"><code>ARC</code></a> </td>
+      <td align="left" valign="middle">Workbench for acquisition and normalization of data sets</td> 
+      <td align="left" valign="middle" rowspan="4"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_148.docx">Implementing shared statistical services</a></strong> </td>     
+</tr> 
+<tr> <td align="left" valign="middle"><a href="https://github.com/mecdcme/is2"><code>IS2/Relais</code></a> </td>
+      <td align="left" valign="middle">Workbench for tuning and launching statistical services, in particular RELAIS for record linkage</td> 
+</tr> 
+<tr> <td align="left" valign="middle"><a href="https://github.com/statisticssweden/PxWeb"><code>PxWeb</code></a> </td>
+      <td align="left" valign="middle">Web application for dissemination of statistical tables</td> 
+</tr> 
+<tr> <td align="left" valign="middle"><a href="https://github.com/InseeFr/Trevas"><code>Trevas</code></a> </td>
+      <td align="left" valign="middle">Validation and Transformation Language engine with <code>Apache Spark</code> implementation</td> 
 </tr> 
 <!-- statistics-coded -->
 <tr> <td align="left" valign="middle"><a href="https://github.com/eurostat/statistics-coded"><code>statistics-coded</code></a> </td>
