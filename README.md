@@ -4,6 +4,8 @@ NTTS21
 Source code accompanying NTTS 2021 publications
 ---
 
+(You want the material you developed for your NTTS21 paper to be added to this list? **Drop us an email [estat-ntts@ec.europa.eu](mailto:estat-ntts@ec.europa.eu)**!)
+
 <table align="center">
 <tr> <th align="left" valign="middle">code</th> 
      <th align="left" valign="middle">topic</th> 
