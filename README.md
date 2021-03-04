@@ -49,7 +49,7 @@ Source code accompanying NTTS 2021 publications
 <!-- statistics-coded -->
 <tr> <td align="left" valign="middle"><a href="https://github.com/eurostat/statistics-coded"><code>statistics-coded</code></a> </td>
       <td align="left" valign="middle">Catalogue of resources to reproduce the results of Eurostat Statistics Explained articles </td> 
-      <td align="left" valign="middle"><strong><a href="https://github.com/eurostat/statistics-coded/blob/master/docs/pubs/NTTS21.statistics_coded.abstract.pdf"><code>statistics-coded</code> – Storytelling through literate programming and runnable computing</a></strong> </td>     
+      <td align="left" valign="middle"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_40.pdf"><code>statistics-coded</code> – Storytelling through literate programming and runnable computing</a></strong> </td>     
 </tr> 
 <!-- persephone -->
 <tr> <td align="left" valign="middle"><a href="https://github.com/statistikat/persephone"><code>persephone</code></a> </td>
