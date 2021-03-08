@@ -66,8 +66,11 @@ Source code accompanying NTTS 2021 publications
       <td align="left" valign="middle">An open-source tool for experimenting with noise based perturbation schemes</td> 
       <td align="left" valign="middle"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_105.pdf">An open-source tool for experimenting with noise-based perturbation schemes</strong> </td>     
 </tr> 
-     
-     
+<!-- Exppert -->
+<tr> <td align="left" valign="middle"><a href="https://github.com/violetacln/SLOPA"><code>SLOPA</code></a> </td>
+      <td align="left" valign="middle">Statistical learning for overestimated population adjustments</td> 
+      <td align="left" valign="middle"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_98.docx">Correcting for population overestimates by using statistical classification methods</strong> </td>     
+</tr>      
 <!-- INSERT YOUR OWN REPO -->
 <!-- <tr> <td align="left" valign="middle"><a href="LINK_TO_THE_REPO"><code>NAME_OF_THE_REPO</code></a> </td>
       <td align="left" valign="middle">DESCRIPTION_OF_THE_REPO</td> 
