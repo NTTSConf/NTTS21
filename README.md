@@ -74,10 +74,19 @@ Source code accompanying NTTS 2021 publications
 <!-- dbnomics R / Python -->
 <tr> <td align="left" valign="middle"><a href="https://git.nomics.world/dbnomics/dbnomics-python-client"><code>Python dbnomics</code></a> </td>
       <td align="left" valign="middle">Access DBnomics time series from <code>Python</code></td> 
-      <td align="left" valign="middle" rowspan="2"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_163.pdf">Publicly available high frequency indicators for assessing current economic activity in crisis time</a></strong> </td>     
+      <td align="left" valign="middle" rowspan="5"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_163.pdf">Publicly available high frequency indicators for assessing current economic activity in crisis time</a></strong> </td>     
 </tr> 
 <tr> <td align="left" valign="middle"><a href="https://git.nomics.world/dbnomics/rdbnomicsn"><code>R dbnomics</code></a> </td>
       <td align="left" valign="middle">Access DBnomics time series from <code>R</code></td> 
+</tr> 
+<tr> <td align="left" valign="middle"><a href="https://github.com/s915/DBnomics.jl"><code>Julia dbnomics</code></a> </td>
+      <td align="left" valign="middle">Access DBnomics time series from <code>Julia</code></td> 
+</tr> 
+<tr> <td align="left" valign="middle"><a href="https://git.dynare.org/dbnomics/mdbnomics"><code>Matlab dbnomics</code></a> </td>
+      <td align="left" valign="middle">Access DBnomics time series from <code>Matlab</code></td> 
+</tr> 
+<tr> <td align="left" valign="middle"><a href="https://github.com/dbnomics-stata/dbnomics"><code>Stata dbnomics</code></a> </td>
+      <td align="left" valign="middle">Access DBnomics time series from <code>Stata</code></td> 
 </tr> 
 <!-- INSERT YOUR OWN REPO -->
 <!-- <tr> <td align="left" valign="middle"><a href="LINK_TO_THE_REPO"><code>NAME_OF_THE_REPO</code></a> </td>
