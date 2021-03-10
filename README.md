@@ -94,3 +94,5 @@ Source code accompanying NTTS 2021 publications
       <td align="left" valign="middle"><strong><a href="LINK_TO_THE_ARTICLE">TITLE_OF_THE_ARTICLE</a></strong> </td>     
 </tr>  -->
 </table>  
+
+Programme of NTTS 2021 conference available [here](https://coms.events/NTTS2021/en/).
