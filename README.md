@@ -70,7 +70,15 @@ Source code accompanying NTTS 2021 publications
 <tr> <td align="left" valign="middle"><a href="https://github.com/violetacln/SLOPA"><code>SLOPA</code></a> </td>
       <td align="left" valign="middle">Statistical learning for overestimated population adjustments</td> 
       <td align="left" valign="middle"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_98.docx">Correcting for population overestimates by using statistical classification methods</strong> </td>     
-</tr>      
+</tr>     
+<!-- dbnomics R / Python -->
+<tr> <td align="left" valign="middle"><a href="https://git.nomics.world/dbnomics/dbnomics-python-client"><code>Python dbnomics</code></a> </td>
+      <td align="left" valign="middle">Access DBnomics time series from <code>Python</code></td> 
+      <td align="left" valign="middle" rowspan="2"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_163.pdf">Publicly available high frequency indicators for assessing current economic activity in crisis time</a></strong> </td>     
+</tr> 
+<tr> <td align="left" valign="middle"><a href="https://git.nomics.world/dbnomics/rdbnomicsn"><code>R dbnomics</code></a> </td>
+      <td align="left" valign="middle">Access DBnomics time series from <code>R</code></td> 
+</tr> 
 <!-- INSERT YOUR OWN REPO -->
 <!-- <tr> <td align="left" valign="middle"><a href="LINK_TO_THE_REPO"><code>NAME_OF_THE_REPO</code></a> </td>
       <td align="left" valign="middle">DESCRIPTION_OF_THE_REPO</td> 
