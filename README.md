@@ -87,6 +87,11 @@ Source code accompanying NTTS 2021 publications
 <tr> <th scope="row" align="left" valign="middle"><a href="https://github.com/dbnomics-stata/dbnomics"><code>Stata dbnomics</code></a> </th>
       <td align="left" valign="middle">Access DBnomics time series from <code>Stata</code></td> 
 </tr> 
+<!-- Exppert -->
+<tr> <th scope="row" align="left" valign="middle"><a href="https://gitlab.com/DavidZenz/ntts2021-large-datasets-apache-parquet"><code>ntts2021-large-datasets-apache-parquet</code></a> </th>
+      <td align="left" valign="middle">Large datasets Apache Parquet</td> 
+      <td align="left" valign="middle"><strong><a href="https://coms.events/NTTS2021/data/x_abstracts/x_abstract_165.pdf">Providing large trade data sets for research using Apache Parquet and <code>R Shiny</code></strong> </td>     
+</tr>  
 <!-- INSERT YOUR OWN REPO -->
 <!-- <tr> <td align="left" valign="middle"><a href="LINK_TO_THE_REPO"><code>NAME_OF_THE_REPO</code></a> </td>
       <td align="left" valign="middle">DESCRIPTION_OF_THE_REPO</td> 
