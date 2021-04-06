@@ -11,12 +11,6 @@ Source code accompanying NTTS 2021 publications
      <th align="left" valign="middle">topic</th> 
      <th align="left" valign="middle">abstract paper</th> 
 </tr> 
-<!-- VIM -->
-<tr> <th scope="row" align="left" valign="middle"> <a href="https://github.com/statistikat/VIM"><code>VIM</code></a> </th>
-     <td align="left" valign="middle">Visualization and imputation of missing values</td> 
-     <td align="left" valign="middle">
-     <strong><a href=""></a></strong> </td>     
-</tr> 
 <!-- destim / deduplication / aggregation / inference -->
 <tr> <th scope="row" align="left" valign="middle"><a href="https://github.com/MobilePhoneESSnetBigData/destim"><code>destim</code></a> </th>
       <td align="left" valign="middle"><code>R</code> package for mobile devices position estimation</td> 
